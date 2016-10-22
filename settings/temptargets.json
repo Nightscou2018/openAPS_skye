@@ -1,1 +1,1 @@
-Cannot GET //api/v1/treatments.json?find[created_at][$gte]=2016-10-21T15:29-0700&amp;find[eventType][$regex]=Target
+Cannot GET //api/v1/treatments.json?find[created_at][$gte]=2016-10-21T15:30-0700&amp;find[eventType][$regex]=Target
